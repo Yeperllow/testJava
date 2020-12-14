@@ -14,5 +14,6 @@ public class CompteurObjets {
     public CompteurObjets() {
         nbobjets ++;
         System.out.println(nbobjets);
+        system.out.println("Test")
     }
 }
